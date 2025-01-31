@@ -1,0 +1,72 @@
+/* configurações gerais */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* cabeçalho */
+.header-container {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    height: 140px;
+    width: 98%;
+}
+#store-name {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.header-container .navigation ul li a:link{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+.header-container .navigation ul li a:hover {
+    color: rgb(146, 203, 253);
+}
+.navigation ul li{
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem;
+}
+
+/* main-container */
+.main-container .main-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.main-container .main-section #item{
+    text-align: center;
+    border: 3px solid rgb(66, 66, 66);
+    border-radius: 5%;
+    max-width: 20rem;
+    height: 80%;
+    margin: 2%;
+    box-shadow: 6px 3px 15px rgb(146, 203, 253);
+}
+
+.main-container .main-section #item img {
+    width: 80%;
+    height: 60%;
+    border-radius: 5%;
+}
+
+.main-container .main-section #item del {
+    color: red;
+    font-size: 0.8rem;
+}
+
+
+/* rodapé */
+footer {
+    background-color: rgb(66, 66, 66);
+    color: white;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem;
+}
