@@ -24,23 +24,23 @@ class CursosXMLAdapter:
         treinamentos = []
 
         for curso_element in root.findall('curso'):
-              try:
-                  treinamento = self._converter_curso_para_treinamento(curso_element)
-                  treinamentos.append(treinamento)
-              except ValueError as e:
-                  print(f"Erro ao converter curso: {e}. Ignorando curso.")  # Log ou tratamento de erro mais robusto
+            try:
+                treinamento = self._converter_curso_para_treinamento(curso_element)
+                treinamentos.append(treinamento)
+            except ValueError as e:
+                print(f"Erro ao converter curso: {e}. Ignorando curso.")  # Log ou tratamento de erro mais robusto
 
         return treinamentos
 
     def _converter_curso_para_treinamento(self, curso_element) -> Treinamento:
         id = int(curso_element.find('id').text)
-        #Adaptando o código para o formato do domínio
+        # Adaptando o código para o formato do domínio
         codigo_bruto = curso_element.find('codigo').text
 
         if len(codigo_bruto) > 4:
-          codigo_adaptado = codigo_bruto[:2] + str(99) 
+            codigo_adaptado = codigo_bruto[:2] + str(99) 
         else:
-          codigo_adaptado = codigo_bruto
+            codigo_adaptado = codigo_bruto
 
         codigo = CodigoTreinamento(codigo=codigo_adaptado)  
         descricao = curso_element.find('descricao').text

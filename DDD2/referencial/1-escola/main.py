@@ -82,9 +82,9 @@ Cadastrar um treinamento com o mesmo código
 """
 Camada anti corrupção
 """
-# adapter = CursosXMLAdapter("cursos.xml")
-# treinamentos = adapter.obter_treinamentos()
+adapter = CursosXMLAdapter("cursos.xml")
+treinamentos = adapter.obter_treinamentos()
 
-# print('XML')
-# for treinamento in treinamentos:
-#     print(f"ID: {treinamento.id}, Código: {treinamento.codigo.codigo}, Descrição: {treinamento.descricao}")
+print('XML')
+for treinamento in treinamentos:
+    print(f"ID: {treinamento.id}, Código: {treinamento.codigo.codigo}, Descrição: {treinamento.descricao}")
