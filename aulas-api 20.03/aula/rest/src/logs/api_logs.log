@@ -1,0 +1,95 @@
+2025-03-14 01:30:57 - INFO - Logger configurado com sucesso!
+2025-03-14 01:30:57 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:36:33 - INFO - Logger configurado com sucesso!
+2025-03-14 01:36:33 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:37:12 - INFO - Logger configurado com sucesso!
+2025-03-14 01:37:13 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:37:43 - INFO - Logger configurado com sucesso!
+2025-03-14 01:37:43 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:39:17 - INFO - Logger configurado com sucesso!
+2025-03-14 01:39:18 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:44:54 - INFO - Logger configurado com sucesso!
+2025-03-14 01:44:54 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:49:31 - INFO - Logger configurado com sucesso!
+2025-03-14 01:49:31 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:50:32 - INFO - Logger configurado com sucesso!
+2025-03-14 01:50:33 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:52:06 - INFO - Logger configurado com sucesso!
+2025-03-14 01:52:06 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:52:39 - INFO - Logger configurado com sucesso!
+2025-03-14 01:52:39 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:52:41 - INFO - Logger configurado com sucesso!
+2025-03-14 01:52:41 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:53:01 - INFO - Logger configurado com sucesso!
+2025-03-14 01:53:01 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:53:08 - INFO - Usuário criado com sucesso: Rafael (ID: 3)
+2025-03-14 01:56:01 - INFO - Logger configurado com sucesso!
+2025-03-14 01:56:01 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 01:56:24 - INFO - Usuário criado com sucesso: Guilherme (ID: 4)
+2025-03-14 02:00:08 - INFO - Logger configurado com sucesso!
+2025-03-14 02:00:09 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:02:56 - INFO - Logger configurado com sucesso!
+2025-03-14 02:02:56 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:03:00 - INFO - Logger configurado com sucesso!
+2025-03-14 02:03:00 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:03:22 - INFO - Logger configurado com sucesso!
+2025-03-14 02:03:22 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:04:42 - INFO - Logger configurado com sucesso!
+2025-03-14 02:04:42 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:07:31 - INFO - Logger configurado com sucesso!
+2025-03-14 02:07:31 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:07:44 - INFO - Logger configurado com sucesso!
+2025-03-14 02:07:45 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:07:51 - INFO - Logger configurado com sucesso!
+2025-03-14 02:07:52 - INFO - Tabelas do banco de dados foram criadas com sucesso.
+2025-03-14 02:07:58 - ERROR - 'NoneType' object has no attribute 'id'
+2025-03-19 20:23:16 - INFO - Logger configurado com sucesso!
+2025-03-19 20:23:17 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-19 20:23:17 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-19 20:23:17 - INFO - Inicialização da aplicação FastAPI...
+2025-03-19 20:57:10 - INFO - Logger configurado com sucesso!
+2025-03-19 20:57:11 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-19 20:57:11 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-19 20:57:11 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 21:44:36 - INFO - Logger configurado com sucesso!
+2025-04-14 21:44:37 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 21:44:37 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 21:44:37 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 21:47:09 - INFO - Logger configurado com sucesso!
+2025-04-14 21:47:10 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 21:47:10 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 21:47:10 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:08:29 - INFO - Usuário criado com sucesso: Marcos (ID: 1)
+2025-04-14 22:13:22 - INFO - Usuário criado com sucesso: Marco (ID: 2)
+2025-04-14 22:18:17 - INFO - Logger configurado com sucesso!
+2025-04-14 22:18:18 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:18:18 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:18:18 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:19:57 - INFO - Logger configurado com sucesso!
+2025-04-14 22:19:58 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:19:58 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:19:58 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:24:04 - INFO - Logger configurado com sucesso!
+2025-04-14 22:24:04 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:24:04 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:24:04 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:24:55 - INFO - Logger configurado com sucesso!
+2025-04-14 22:24:56 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:24:56 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:24:56 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:25:13 - INFO - Logger configurado com sucesso!
+2025-04-14 22:25:14 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:25:14 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:25:14 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:28:21 - INFO - Logger configurado com sucesso!
+2025-04-14 22:28:21 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:28:21 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:28:21 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:28:34 - INFO - Logger configurado com sucesso!
+2025-04-14 22:28:35 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-04-14 22:28:35 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-04-14 22:28:35 - INFO - Inicialização da aplicação FastAPI...
+2025-04-14 22:46:46 - INFO - Produto criado com sucesso: tenis (ID: 1)
+2025-04-14 22:48:59 - INFO - Produto acessado: tenis (ID: 1)
+2025-04-14 22:49:06 - WARNING - Produto não encontrado: ID 2
+2025-04-14 22:49:11 - INFO - Produto acessado: tenis (ID: 1)
