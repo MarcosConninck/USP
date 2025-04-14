@@ -1,0 +1,591 @@
+2025-03-10 02:49:06 - INFO - Logger configurado com sucesso!
+2025-03-10 02:49:31 - INFO - Usuário criado com sucesso: helder (ID: 1)
+2025-03-10 02:49:50 - INFO - Usuário autenticado com sucesso: helder@email.com
+2025-03-10 02:51:56 - INFO - Logger configurado com sucesso!
+2025-03-10 02:53:06 - INFO - Logger configurado com sucesso!
+2025-03-10 02:53:22 - INFO - Logger configurado com sucesso!
+2025-03-10 02:54:54 - INFO - Logger configurado com sucesso!
+2025-03-10 02:55:08 - INFO - Logger configurado com sucesso!
+2025-03-10 02:55:21 - INFO - Logger configurado com sucesso!
+2025-03-10 02:55:42 - INFO - Logger configurado com sucesso!
+2025-03-10 03:00:45 - INFO - Logger configurado com sucesso!
+2025-03-10 03:00:51 - ERROR - Usuário com email helder@email.com não encontrado
+2025-03-10 03:00:58 - INFO - Usuário criado com sucesso: helder (ID: 1)
+2025-03-10 03:01:07 - WARNING - Tentativa de login falhou para o usuário: helder@gmal.com
+2025-03-10 03:01:07 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-10 03:01:13 - WARNING - Tentativa de login falhou para o usuário: helder@gmal.com
+2025-03-10 03:01:13 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-10 03:01:29 - INFO - Logger configurado com sucesso!
+2025-03-10 03:02:08 - INFO - Usuário criado com sucesso: helder (ID: 2)
+2025-03-10 03:02:17 - INFO - Usuário autenticado com sucesso: helder2@gmail.com
+2025-03-10 03:02:22 - INFO - Usuário helder autenticado com sucesso
+2025-03-10 03:02:22 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-10 03:03:07 - INFO - Logger configurado com sucesso!
+2025-03-10 03:04:45 - INFO - Logger configurado com sucesso!
+2025-03-10 03:04:53 - INFO - Usuário helder autenticado com sucesso
+2025-03-10 03:04:53 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-10 03:05:38 - INFO - Logger configurado com sucesso!
+2025-03-10 03:05:57 - INFO - Logger configurado com sucesso!
+2025-03-10 03:06:41 - INFO - Logger configurado com sucesso!
+2025-03-10 03:25:30 - INFO - Logger configurado com sucesso!
+2025-03-10 03:25:42 - INFO - Logger configurado com sucesso!
+2025-03-10 03:25:49 - INFO - Logger configurado com sucesso!
+2025-03-10 03:26:06 - INFO - Logger configurado com sucesso!
+2025-03-10 03:26:17 - INFO - Logger configurado com sucesso!
+2025-03-10 03:26:42 - INFO - Produto criado com sucesso: Teste (ID: 1)
+2025-03-10 03:27:14 - INFO - Logger configurado com sucesso!
+2025-03-10 03:28:12 - INFO - Logger configurado com sucesso!
+2025-03-10 03:28:45 - INFO - Logger configurado com sucesso!
+2025-03-10 03:29:48 - INFO - Logger configurado com sucesso!
+2025-03-10 03:30:24 - INFO - Logger configurado com sucesso!
+2025-03-10 03:30:52 - INFO - Logger configurado com sucesso!
+2025-03-10 03:31:20 - INFO - Logger configurado com sucesso!
+2025-03-10 03:31:30 - INFO - Logger configurado com sucesso!
+2025-03-10 03:31:41 - INFO - Logger configurado com sucesso!
+2025-03-10 03:32:04 - INFO - Logger configurado com sucesso!
+2025-03-10 03:32:12 - INFO - Logger configurado com sucesso!
+2025-03-10 03:32:33 - INFO - Logger configurado com sucesso!
+2025-03-10 03:33:04 - INFO - Logger configurado com sucesso!
+2025-03-10 03:33:16 - INFO - Logger configurado com sucesso!
+2025-03-10 03:33:29 - INFO - Produto acessado: Teste (ID: 1)
+2025-03-10 03:34:04 - INFO - Logger configurado com sucesso!
+2025-03-10 03:34:08 - INFO - Logger configurado com sucesso!
+2025-03-10 03:34:21 - INFO - Produto acessado: Teste (ID: 1)
+2025-03-10 03:36:07 - INFO - Logger configurado com sucesso!
+2025-03-10 03:36:16 - INFO - Logger configurado com sucesso!
+2025-03-10 03:36:38 - INFO - Logger configurado com sucesso!
+2025-03-10 03:41:03 - INFO - Logger configurado com sucesso!
+2025-03-10 03:42:05 - INFO - Logger configurado com sucesso!
+2025-03-10 03:42:23 - INFO - Logger configurado com sucesso!
+2025-03-10 03:45:46 - INFO - Logger configurado com sucesso!
+2025-03-10 03:46:13 - INFO - Logger configurado com sucesso!
+2025-03-10 03:47:08 - INFO - Logger configurado com sucesso!
+2025-03-10 03:47:21 - INFO - Logger configurado com sucesso!
+2025-03-10 03:48:47 - INFO - Logger configurado com sucesso!
+2025-03-10 03:49:04 - INFO - Logger configurado com sucesso!
+2025-03-10 03:49:07 - INFO - Logger configurado com sucesso!
+2025-03-10 03:49:22 - INFO - Logger configurado com sucesso!
+2025-03-10 03:49:23 - INFO - Logger configurado com sucesso!
+2025-03-10 03:50:20 - INFO - Logger configurado com sucesso!
+2025-03-10 03:50:29 - INFO - Logger configurado com sucesso!
+2025-03-10 03:51:09 - INFO - Logger configurado com sucesso!
+2025-03-10 03:51:18 - INFO - Logger configurado com sucesso!
+2025-03-10 03:53:09 - INFO - Logger configurado com sucesso!
+2025-03-10 03:54:04 - INFO - Logger configurado com sucesso!
+2025-03-10 03:54:16 - INFO - Logger configurado com sucesso!
+2025-03-10 03:54:18 - INFO - Logger configurado com sucesso!
+2025-03-10 03:54:31 - INFO - Logger configurado com sucesso!
+2025-03-10 03:55:32 - INFO - Logger configurado com sucesso!
+2025-03-10 03:55:33 - INFO - Logger configurado com sucesso!
+2025-03-10 03:55:34 - INFO - Logger configurado com sucesso!
+2025-03-10 03:55:39 - INFO - Logger configurado com sucesso!
+2025-03-10 03:56:26 - INFO - Logger configurado com sucesso!
+2025-03-10 03:57:53 - INFO - Logger configurado com sucesso!
+2025-03-10 03:58:06 - INFO - Logger configurado com sucesso!
+2025-03-10 03:58:24 - INFO - Usuário criado com sucesso: helder (ID: 1)
+2025-03-10 04:09:46 - INFO - Logger configurado com sucesso!
+2025-03-10 04:11:35 - INFO - Logger configurado com sucesso!
+2025-03-10 04:11:45 - INFO - Logger configurado com sucesso!
+2025-03-10 04:11:56 - INFO - Logger configurado com sucesso!
+2025-03-10 04:12:07 - INFO - Logger configurado com sucesso!
+2025-03-10 04:12:56 - INFO - Logger configurado com sucesso!
+2025-03-10 04:14:06 - INFO - Logger configurado com sucesso!
+2025-03-10 04:14:46 - INFO - Logger configurado com sucesso!
+2025-03-10 04:16:04 - INFO - Logger configurado com sucesso!
+2025-03-10 04:17:51 - INFO - Logger configurado com sucesso!
+2025-03-10 04:18:09 - INFO - Logger configurado com sucesso!
+2025-03-10 04:18:13 - INFO - Logger configurado com sucesso!
+2025-03-10 04:18:17 - INFO - Logger configurado com sucesso!
+2025-03-10 04:19:51 - INFO - Logger configurado com sucesso!
+2025-03-10 04:20:57 - INFO - Logger configurado com sucesso!
+2025-03-10 04:21:08 - INFO - Logger configurado com sucesso!
+2025-03-10 12:32:10 - INFO - Logger configurado com sucesso!
+2025-03-10 12:32:14 - INFO - Logger configurado com sucesso!
+2025-03-10 12:32:37 - INFO - Logger configurado com sucesso!
+2025-03-10 12:32:59 - INFO - Logger configurado com sucesso!
+2025-03-10 12:46:37 - INFO - Logger configurado com sucesso!
+2025-03-10 12:47:01 - INFO - Logger configurado com sucesso!
+2025-03-10 12:47:19 - INFO - Logger configurado com sucesso!
+2025-03-10 12:47:27 - INFO - Logger configurado com sucesso!
+2025-03-10 12:47:34 - INFO - Logger configurado com sucesso!
+2025-03-10 12:48:07 - INFO - Logger configurado com sucesso!
+2025-03-10 12:48:12 - INFO - Logger configurado com sucesso!
+2025-03-10 12:48:17 - INFO - Logger configurado com sucesso!
+2025-03-10 12:55:26 - INFO - Logger configurado com sucesso!
+2025-03-10 12:56:28 - INFO - Logger configurado com sucesso!
+2025-03-10 12:56:31 - INFO - Logger configurado com sucesso!
+2025-03-10 12:56:32 - INFO - Logger configurado com sucesso!
+2025-03-11 03:02:20 - INFO - Logger configurado com sucesso!
+2025-03-11 03:03:24 - INFO - Usuário criado com sucesso: helderprado (ID: 1)
+2025-03-11 03:03:43 - WARNING - Tentativa de login falhou para o usuário: helder@gmail.com
+2025-03-11 03:03:43 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-11 03:04:06 - WARNING - Tentativa de login falhou para o usuário: helder@gmail.com
+2025-03-11 03:04:06 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-11 03:04:25 - INFO - Usuário autenticado com sucesso: helder@email.com
+2025-03-11 03:04:35 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:04:35 - INFO - Usuário acessou seus dados: helderprado (ID: 1)
+2025-03-11 03:05:55 - INFO - Logger configurado com sucesso!
+2025-03-11 03:05:56 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:05:56 - INFO - Usuário acessou seus dados: helderprado (ID: 1)
+2025-03-11 03:07:26 - INFO - Logger configurado com sucesso!
+2025-03-11 03:08:08 - INFO - Logger configurado com sucesso!
+2025-03-11 03:08:14 - INFO - Logger configurado com sucesso!
+2025-03-11 03:08:32 - INFO - Logger configurado com sucesso!
+2025-03-11 03:08:35 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:08:35 - INFO - Usuário acessou seus dados: helderprado (ID: 1)
+2025-03-11 03:08:44 - INFO - Logger configurado com sucesso!
+2025-03-11 03:08:46 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:08:46 - INFO - Usuário acessou seus dados: helderprado (ID: 1)
+2025-03-11 03:13:19 - INFO - Logger configurado com sucesso!
+2025-03-11 03:13:41 - INFO - Logger configurado com sucesso!
+2025-03-11 03:14:32 - INFO - Logger configurado com sucesso!
+2025-03-11 03:14:42 - INFO - Produto criado com sucesso: BONECA (ID: 1)
+2025-03-11 03:14:52 - INFO - Produto criado com sucesso: BONECA (ID: 2)
+2025-03-11 03:15:09 - INFO - Produto criado com sucesso: 2424 (ID: 3)
+2025-03-11 03:15:22 - INFO - Logger configurado com sucesso!
+2025-03-11 03:15:23 - INFO - Produto criado com sucesso: 2424 (ID: 4)
+2025-03-11 03:15:32 - INFO - Logger configurado com sucesso!
+2025-03-11 03:15:33 - INFO - Produto criado com sucesso: 2424 (ID: 5)
+2025-03-11 03:16:31 - INFO - Logger configurado com sucesso!
+2025-03-11 03:16:52 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: 234232
+2025-03-11 03:17:49 - INFO - Logger configurado com sucesso!
+2025-03-11 03:17:59 - INFO - Logger configurado com sucesso!
+2025-03-11 03:18:20 - INFO - Logger configurado com sucesso!
+2025-03-11 03:18:30 - INFO - Produto acessado: BONECA (ID: 1)
+2025-03-11 03:18:32 - INFO - Produto acessado: BONECA (ID: 2)
+2025-03-11 03:18:34 - INFO - Produto acessado: 2424 (ID: 4)
+2025-03-11 03:18:37 - WARNING - Produto não encontrado: ID 6
+2025-03-11 03:18:40 - WARNING - Produto não encontrado: ID 8
+2025-03-11 03:18:42 - INFO - Produto acessado: BONECA (ID: 1)
+2025-03-11 03:18:44 - INFO - Produto acessado: BONECA (ID: 2)
+2025-03-11 03:20:03 - WARNING - Tentativa de login falhou para o usuário: helder@email.com
+2025-03-11 03:20:04 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-11 03:20:11 - INFO - Usuário autenticado com sucesso: helder@email.com
+2025-03-11 03:20:17 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:20:17 - ERROR - Erro ao criar pedido: 'produtos' is an invalid keyword argument for Pedido
+2025-03-11 03:22:52 - INFO - Logger configurado com sucesso!
+2025-03-11 03:22:55 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:22:55 - ERROR - Erro ao criar pedido: 'list' object has no attribute '_sa_instance_state'
+2025-03-11 03:27:27 - INFO - Logger configurado com sucesso!
+2025-03-11 03:27:31 - INFO - Logger configurado com sucesso!
+2025-03-11 03:27:34 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:27:34 - ERROR - Erro ao criar pedido: 'list' object has no attribute '_sa_instance_state'
+2025-03-11 03:27:40 - INFO - Logger configurado com sucesso!
+2025-03-11 03:27:53 - INFO - Logger configurado com sucesso!
+2025-03-11 03:27:55 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:27:55 - ERROR - Erro ao criar pedido: 'list' object has no attribute '_sa_instance_state'
+2025-03-11 03:28:01 - INFO - Logger configurado com sucesso!
+2025-03-11 03:28:09 - INFO - Logger configurado com sucesso!
+2025-03-11 03:28:11 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:28:11 - ERROR - Erro ao criar pedido: 'list' object has no attribute '_sa_instance_state'
+2025-03-11 03:29:10 - INFO - Logger configurado com sucesso!
+2025-03-11 03:29:12 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:29:12 - ERROR - Erro ao criar pedido: 'list' object has no attribute '_sa_instance_state'
+2025-03-11 03:29:44 - INFO - Logger configurado com sucesso!
+2025-03-11 03:30:21 - INFO - Logger configurado com sucesso!
+2025-03-11 03:30:22 - INFO - Logger configurado com sucesso!
+2025-03-11 03:31:33 - INFO - Logger configurado com sucesso!
+2025-03-11 03:31:37 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:31:37 - ERROR - Erro ao criar pedido: 'PedidoCriacao' object has no attribute 'itens'
+2025-03-11 03:31:44 - INFO - Logger configurado com sucesso!
+2025-03-11 03:31:49 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:31:49 - ERROR - Erro ao criar pedido: cannot unpack non-iterable int object
+2025-03-11 03:32:02 - INFO - Logger configurado com sucesso!
+2025-03-11 03:33:26 - INFO - Logger configurado com sucesso!
+2025-03-11 03:34:37 - INFO - Logger configurado com sucesso!
+2025-03-11 03:36:23 - INFO - Logger configurado com sucesso!
+2025-03-11 03:36:32 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:36:32 - ERROR - Erro ao criar pedido: 'int' object has no attribute 'produto_id'
+2025-03-11 03:36:57 - INFO - Logger configurado com sucesso!
+2025-03-11 03:36:59 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:36:59 - ERROR - Erro ao criar pedido: 'int' object has no attribute 'id'
+2025-03-11 03:37:30 - INFO - Logger configurado com sucesso!
+2025-03-11 03:37:35 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:37:35 - ERROR - Erro ao criar pedido: cannot unpack non-iterable int object
+2025-03-11 03:37:50 - INFO - Logger configurado com sucesso!
+2025-03-11 03:37:54 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:37:54 - ERROR - Erro ao criar pedido: cannot unpack non-iterable int object
+2025-03-11 03:38:40 - INFO - Logger configurado com sucesso!
+2025-03-11 03:38:47 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:38:47 - ERROR - Erro ao criar pedido: 'int' object has no attribute 'produto_id'
+2025-03-11 03:38:57 - INFO - Logger configurado com sucesso!
+2025-03-11 03:38:59 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:38:59 - ERROR - Erro ao criar pedido: 'int' object has no attribute 'produto_id'
+2025-03-11 03:39:29 - INFO - Logger configurado com sucesso!
+2025-03-11 03:39:35 - INFO - Logger configurado com sucesso!
+2025-03-11 03:39:47 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:39:47 - ERROR - Erro ao criar pedido: 'Produto' object has no attribute 'quantidade'
+2025-03-11 03:40:24 - INFO - Logger configurado com sucesso!
+2025-03-11 03:40:25 - INFO - Usuário helderprado autenticado com sucesso
+2025-03-11 03:40:25 - ERROR - Erro ao criar pedido: 'Produto' object has no attribute 'quantidade'
+2025-03-11 03:40:30 - INFO - Logger configurado com sucesso!
+2025-03-11 03:40:56 - INFO - Logger configurado com sucesso!
+2025-03-11 03:41:22 - INFO - Logger configurado com sucesso!
+2025-03-11 03:41:25 - INFO - Logger configurado com sucesso!
+2025-03-11 03:41:52 - INFO - Logger configurado com sucesso!
+2025-03-11 03:41:58 - ERROR - Usuário com email helder@email.com não encontrado
+2025-03-11 03:42:17 - INFO - Usuário criado com sucesso: helder (ID: 1)
+2025-03-11 03:42:28 - INFO - Usuário autenticado com sucesso: helder@gmail.com
+2025-03-11 03:43:03 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-11 03:43:28 - INFO - Logger configurado com sucesso!
+2025-03-11 03:43:31 - INFO - Logger configurado com sucesso!
+2025-03-11 03:43:32 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-11 03:43:44 - INFO - Logger configurado com sucesso!
+2025-03-11 03:43:49 - INFO - Logger configurado com sucesso!
+2025-03-11 03:43:51 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-11 03:44:17 - INFO - Logger configurado com sucesso!
+2025-03-11 03:44:18 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-11 03:44:23 - INFO - Logger configurado com sucesso!
+2025-03-11 03:44:37 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-11 03:45:07 - INFO - Logger configurado com sucesso!
+2025-03-11 03:45:08 - INFO - Produto criado com sucesso: BONECA (ID: 1)
+2025-03-11 03:45:15 - INFO - Usuário helder autenticado com sucesso
+2025-03-11 03:45:16 - INFO - Pedido criado com sucesso: 1 (Usuário: helder)
+2025-03-11 03:48:41 - INFO - Logger configurado com sucesso!
+2025-03-11 03:48:44 - INFO - Usuário helder autenticado com sucesso
+2025-03-11 03:48:44 - INFO - Pedido criado com sucesso: 2 (Usuário: helder)
+2025-03-11 03:51:16 - INFO - Produto acessado: BONECA (ID: 1)
+2025-03-11 03:52:44 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:20:04 - INFO - Logger configurado com sucesso!
+2025-03-12 20:20:42 - INFO - Usuário criado com sucesso: helder (ID: 2)
+2025-03-12 20:21:00 - INFO - Usuário atualizado com sucesso: Helder 3 (ID: 2)
+2025-03-12 20:21:16 - WARNING - Tentativa de login falhou para o usuário: helder@string.com.br
+2025-03-12 20:21:16 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-12 20:21:20 - WARNING - Tentativa de login falhou para o usuário: helder@email.com.br
+2025-03-12 20:21:20 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-12 20:21:46 - INFO - Usuário autenticado com sucesso: helder@example.com
+2025-03-12 20:21:59 - INFO - Usuário deletado com sucesso: ID 1
+2025-03-12 20:24:25 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:27:30 - INFO - Logger configurado com sucesso!
+2025-03-12 20:27:37 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:28:09 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: "UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6"
+2025-03-12 20:28:39 - INFO - Logger configurado com sucesso!
+2025-03-12 20:29:10 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:29:38 - INFO - Logger configurado com sucesso!
+2025-03-12 20:29:40 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:29:52 - INFO - Logger configurado com sucesso!
+2025-03-12 20:29:57 - INFO - Logger configurado com sucesso!
+2025-03-12 20:29:58 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6
+2025-03-12 20:30:08 - INFO - Logger configurado com sucesso!
+2025-03-12 20:30:20 - INFO - Logger configurado com sucesso!
+2025-03-12 20:30:26 - INFO - Logger configurado com sucesso!
+2025-03-12 20:30:31 - INFO - Logger configurado com sucesso!
+2025-03-12 20:31:39 - INFO - Logger configurado com sucesso!
+2025-03-12 20:31:50 - INFO - Logger configurado com sucesso!
+2025-03-12 20:32:03 - INFO - Produto criado com sucesso: Boneca (ID: 2)
+2025-03-12 20:37:59 - INFO - Produto acessado: Boneca (ID: 2)
+2025-03-12 20:38:10 - INFO - Usuário Helder 3 autenticado com sucesso
+2025-03-12 20:38:10 - INFO - Pedido criado com sucesso: 3 (Usuário: Helder 3)
+2025-03-12 22:51:06 - INFO - Logger configurado com sucesso!
+2025-03-12 22:51:25 - INFO - Usuário criado com sucesso: helder (ID: 3)
+2025-03-12 22:51:39 - INFO - Usuário criado com sucesso: helder2 (ID: 4)
+2025-03-12 22:51:47 - INFO - Usuário criado com sucesso: helder3 (ID: 5)
+2025-03-12 22:52:03 - WARNING - Tentativa de login falhou para o usuário: helder3@gmail.com
+2025-03-12 22:52:03 - ERROR - Erro ao processar login: 401: Credenciais inválidas
+2025-03-12 22:52:08 - INFO - Usuário autenticado com sucesso: helder3@email.com
+2025-03-12 22:52:15 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:52:15 - INFO - Usuário acessou seus dados: helder3 (ID: 5)
+2025-03-12 22:52:51 - INFO - Logger configurado com sucesso!
+2025-03-12 22:52:53 - INFO - Logger configurado com sucesso!
+2025-03-12 22:53:08 - INFO - Logger configurado com sucesso!
+2025-03-12 22:53:20 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:53:20 - INFO - Usuário acessou seus dados: helder3 (ID: 5)
+2025-03-12 22:53:42 - INFO - Logger configurado com sucesso!
+2025-03-12 22:54:03 - INFO - Logger configurado com sucesso!
+2025-03-12 22:54:04 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:54:04 - INFO - Usuário acessou seus dados: helder3 (ID: 5)
+2025-03-12 22:54:27 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:54:27 - INFO - Pedido criado com sucesso: 4 (Usuário: helder3)
+2025-03-12 22:56:55 - INFO - Logger configurado com sucesso!
+2025-03-12 22:56:56 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:56:56 - INFO - Pedido criado com sucesso: 5 (Usuário: helder3)
+2025-03-12 22:57:40 - INFO - Logger configurado com sucesso!
+2025-03-12 22:58:37 - INFO - Logger configurado com sucesso!
+2025-03-12 22:58:38 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 22:58:38 - INFO - Pedido criado com sucesso: 6 (Usuário: helder3)
+2025-03-12 22:59:58 - INFO - Logger configurado com sucesso!
+2025-03-12 23:00:41 - INFO - Logger configurado com sucesso!
+2025-03-12 23:00:50 - INFO - Logger configurado com sucesso!
+2025-03-12 23:01:36 - INFO - Logger configurado com sucesso!
+2025-03-12 23:01:40 - INFO - Logger configurado com sucesso!
+2025-03-12 23:01:41 - INFO - Logger configurado com sucesso!
+2025-03-12 23:01:43 - INFO - Logger configurado com sucesso!
+2025-03-12 23:01:44 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:01:44 - INFO - Pedido criado com sucesso: 7 (Usuário: helder3)
+2025-03-12 23:01:52 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:01:52 - INFO - Pedido criado com sucesso: 8 (Usuário: helder3)
+2025-03-12 23:01:53 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:01:53 - INFO - Pedido criado com sucesso: 9 (Usuário: helder3)
+2025-03-12 23:02:10 - INFO - Logger configurado com sucesso!
+2025-03-12 23:02:14 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:02:14 - INFO - Pedido criado com sucesso: 10 (Usuário: helder3)
+2025-03-12 23:02:34 - INFO - Logger configurado com sucesso!
+2025-03-12 23:02:36 - INFO - Logger configurado com sucesso!
+2025-03-12 23:02:37 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:02:37 - INFO - Pedido criado com sucesso: 11 (Usuário: helder3)
+2025-03-12 23:04:34 - INFO - Logger configurado com sucesso!
+2025-03-12 23:04:37 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:04:38 - ERROR - Erro ao criar pedido: 'NoneType' object has no attribute '__dict__'
+2025-03-12 23:04:56 - INFO - Logger configurado com sucesso!
+2025-03-12 23:05:06 - INFO - Logger configurado com sucesso!
+2025-03-12 23:05:12 - INFO - Usuário helder3 autenticado com sucesso
+2025-03-12 23:05:12 - INFO - Pedido criado com sucesso: 13 (Usuário: helder3)
+2025-03-12 23:05:28 - INFO - Logger configurado com sucesso!
+2025-03-12 23:08:34 - INFO - Logger configurado com sucesso!
+2025-03-12 23:09:37 - INFO - Logger configurado com sucesso!
+2025-03-12 23:11:31 - INFO - Logger configurado com sucesso!
+2025-03-12 23:12:24 - INFO - Logger configurado com sucesso!
+2025-03-12 23:13:08 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: CHAVE_API="UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6"
+2025-03-12 23:13:57 - WARNING - Falha na autenticação: API Key inválida ou ausente. Chave recebida: CHAVE_API="UJNh8X3fjezxXIFJRPIf2QFFjRFsfyA3DLMRpTQbVmyRCL5hFHrJInXE6ZSGVIe6"
+2025-03-12 23:17:52 - INFO - Logger configurado com sucesso!
+2025-03-12 23:18:18 - INFO - Usuário criado com sucesso: helder (ID: 1)
+2025-03-12 23:19:09 - INFO - Logger configurado com sucesso!
+2025-03-12 23:19:10 - ERROR - Erro ao criar usuário: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ix_tb_usuarios_email"
+DETAIL:  Key (email)=(helder@email.com) already exists.
+
+[SQL: INSERT INTO tb_usuarios (nome, email, senha_hash) VALUES (%(nome)s, %(email)s, %(senha_hash)s) RETURNING tb_usuarios.id]
+[parameters: {'nome': 'helder', 'email': 'helder@email.com', 'senha_hash': '$2b$12$Dc/zjLYq4fK43LvZUv2aYOV9vInbwJF2ZeXrUuGKVCRz.t4E0qmtm'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-03-12 23:19:15 - INFO - Usuário criado com sucesso: helder2 (ID: 3)
+2025-03-12 23:20:15 - INFO - Produto criado com sucesso: Teste (ID: 1)
+2025-03-12 23:20:47 - INFO - Usuário autenticado com sucesso: helder@email.com
+2025-03-12 23:20:50 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:20:50 - INFO - Pedido criado com sucesso: 1 (Usuário: helder)
+2025-03-12 23:21:06 - INFO - Logger configurado com sucesso!
+2025-03-12 23:21:27 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:21:27 - INFO - Pedido criado com sucesso: 2 (Usuário: helder)
+2025-03-12 23:21:35 - INFO - Produto acessado: Teste (ID: 1)
+2025-03-12 23:22:04 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:22:04 - ERROR - Erro ao obter pedido 1: 2 validation errors for PedidoRespostaComLinks
+produtos
+  field required (type=value_error.missing)
+usuario_id
+  field required (type=value_error.missing)
+2025-03-12 23:22:24 - INFO - Logger configurado com sucesso!
+2025-03-12 23:22:25 - INFO - Logger configurado com sucesso!
+2025-03-12 23:23:04 - INFO - Logger configurado com sucesso!
+2025-03-12 23:23:12 - INFO - Logger configurado com sucesso!
+2025-03-12 23:23:12 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:23:12 - ERROR - Erro ao obter pedido 1: 1 validation error for PedidoRespostaComLinks
+usuario_id
+  field required (type=value_error.missing)
+2025-03-12 23:23:25 - INFO - Logger configurado com sucesso!
+2025-03-12 23:23:26 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:24:02 - INFO - Logger configurado com sucesso!
+2025-03-12 23:24:35 - INFO - Logger configurado com sucesso!
+2025-03-12 23:24:46 - INFO - Logger configurado com sucesso!
+2025-03-12 23:24:49 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:25:24 - INFO - Usuário helder autenticado com sucesso
+2025-03-12 23:25:24 - INFO - Pedido 1 deletado com sucesso
+2025-03-13 02:29:53 - INFO - Logger configurado com sucesso!
+2025-03-13 02:30:21 - INFO - Usuário criado com sucesso: helder10 (ID: 1)
+2025-03-13 02:30:36 - INFO - Usuário autenticado com sucesso: helder10@email.com
+2025-03-13 02:30:50 - INFO - Produto criado com sucesso: Teste (ID: 1)
+2025-03-13 02:30:56 - INFO - Produto acessado: Teste (ID: 1)
+2025-03-13 02:31:16 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:31:16 - INFO - Pedido criado com sucesso: 1 (Usuário: helder10)
+2025-03-13 02:31:23 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:31:41 - INFO - Produto acessado: Teste (ID: 1)
+2025-03-13 02:32:02 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:32:26 - INFO - Logger configurado com sucesso!
+2025-03-13 02:32:27 - INFO - Logger configurado com sucesso!
+2025-03-13 02:32:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:33:31 - INFO - Logger configurado com sucesso!
+2025-03-13 02:33:41 - INFO - Logger configurado com sucesso!
+2025-03-13 02:33:43 - INFO - Logger configurado com sucesso!
+2025-03-13 02:33:45 - INFO - Logger configurado com sucesso!
+2025-03-13 02:34:01 - INFO - Logger configurado com sucesso!
+2025-03-13 02:34:03 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:34:50 - INFO - Logger configurado com sucesso!
+2025-03-13 02:34:55 - INFO - Logger configurado com sucesso!
+2025-03-13 02:35:04 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:35:04 - INFO - Pedido 1 deletado com sucesso
+2025-03-13 02:38:48 - INFO - Logger configurado com sucesso!
+2025-03-13 02:40:05 - INFO - Logger configurado com sucesso!
+2025-03-13 02:40:13 - INFO - Logger configurado com sucesso!
+2025-03-13 02:40:14 - INFO - Logger configurado com sucesso!
+2025-03-13 02:41:39 - INFO - Logger configurado com sucesso!
+2025-03-13 02:42:00 - INFO - Logger configurado com sucesso!
+2025-03-13 02:42:02 - INFO - Logger configurado com sucesso!
+2025-03-13 02:42:45 - INFO - Logger configurado com sucesso!
+2025-03-13 02:42:46 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:17 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:21 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:23 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:30 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:31 - INFO - Logger configurado com sucesso!
+2025-03-13 02:43:48 - INFO - Logger configurado com sucesso!
+2025-03-13 02:44:28 - INFO - Logger configurado com sucesso!
+2025-03-13 02:44:29 - INFO - Logger configurado com sucesso!
+2025-03-13 02:45:34 - INFO - Logger configurado com sucesso!
+2025-03-13 02:45:41 - INFO - Logger configurado com sucesso!
+2025-03-13 02:45:53 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:53 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:45:54 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:54 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:45:54 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:54 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:45:55 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:55 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:45:55 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:55 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:45:55 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:45:55 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:46:02 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:46:53 - INFO - Logger configurado com sucesso!
+2025-03-13 02:46:57 - INFO - Logger configurado com sucesso!
+2025-03-13 02:47:05 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:05 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:09 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:09 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:10 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:10 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:10 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:10 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:11 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:11 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:12 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:12 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:12 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:12 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:13 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:13 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:13 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:13 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:14 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:14 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:47:14 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:14 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:14 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:47:59 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:41 - INFO - Logger configurado com sucesso!
+2025-03-13 02:48:46 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:46 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:46 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:46 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:46 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:46 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:47 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:47 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:47 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:47 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:47 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:47 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:47 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:47 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:47 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:47 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:48 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:48 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:48 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:48 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:48:48 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:48 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:48 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:48:49 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:24 - INFO - Logger configurado com sucesso!
+2025-03-13 02:49:25 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 02:49:25 - INFO - CORS configurado para permitir origens: ['http://localhost:3000']
+2025-03-13 02:49:25 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 02:49:26 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:26 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:26 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:26 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:27 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:27 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:27 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:27 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:27 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:27 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:27 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:27 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:28 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:28 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:28 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:28 - INFO - Usuário acessou seus dados: helder10 (ID: 1)
+2025-03-13 02:49:28 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:28 - WARNING - Rate limit excedido para 172.18.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 02:49:29 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:29 - WARNING - Rate limit excedido para 172.18.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 02:49:29 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:29 - WARNING - Rate limit excedido para 172.18.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 02:49:30 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:49:30 - WARNING - Rate limit excedido para 172.18.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 02:51:43 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:51:43 - ERROR - Erro ao obter pedido 1: 404: Pedido não encontrado.
+2025-03-13 02:51:46 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:51:46 - ERROR - Erro ao obter pedido 2: 404: Pedido não encontrado.
+2025-03-13 02:51:50 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:51:50 - ERROR - Erro ao obter pedido 4: 404: Pedido não encontrado.
+2025-03-13 02:51:51 - INFO - Usuário helder10 autenticado com sucesso
+2025-03-13 02:51:51 - ERROR - Erro ao obter pedido 1: 404: Pedido não encontrado.
+2025-03-13 03:02:19 - INFO - Logger configurado com sucesso!
+2025-03-13 03:02:20 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:02:20 - INFO - CORS configurado para permitir origens: ['http://localhost:3000']
+2025-03-13 03:02:20 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:04:11 - INFO - Logger configurado com sucesso!
+2025-03-13 03:04:12 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:04:12 - INFO - CORS configurado para permitir origens: ['http://localhost:3000']
+2025-03-13 03:04:12 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:04:20 - INFO - Logger configurado com sucesso!
+2025-03-13 03:04:21 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:04:21 - INFO - CORS configurado para permitir origens: ['http://localhost:3000']
+2025-03-13 03:04:21 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:05:11 - INFO - Logger configurado com sucesso!
+2025-03-13 03:05:12 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:05:12 - INFO - CORS configurado para permitir origens: ['http://frontend:80']
+2025-03-13 03:05:12 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:05:36 - INFO - Logger configurado com sucesso!
+2025-03-13 03:05:37 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:05:37 - INFO - CORS configurado para permitir origens: ['http://frontend:80']
+2025-03-13 03:05:37 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:08:45 - INFO - Logger configurado com sucesso!
+2025-03-13 03:08:46 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:08:46 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-13 03:08:46 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:12:24 - INFO - Logger configurado com sucesso!
+2025-03-13 03:12:25 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:12:25 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-13 03:12:25 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 03:12:25 - INFO - Logger configurado com sucesso!
+2025-03-13 03:12:26 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 03:12:26 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-13 03:12:26 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 17:41:12 - INFO - Logger configurado com sucesso!
+2025-03-13 17:41:13 - INFO - Tabelas do banco de dados criadas com sucesso.
+2025-03-13 17:41:13 - INFO - CORS configurado para permitir origens: ['http://frontend:80', 'http://localhost:8080']
+2025-03-13 17:41:13 - INFO - Inicialização da aplicação FastAPI...
+2025-03-13 17:46:19 - INFO - Usuário criado com sucesso: helder (ID: 2)
+2025-03-13 17:47:31 - INFO - Usuário autenticado com sucesso: helder@email.com
+2025-03-13 17:48:19 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:48:19 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:36 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:36 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:36 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:36 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:36 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:36 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:37 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:37 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:38 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:38 - INFO - Usuário acessou seus dados: helder (ID: 2)
+2025-03-13 17:52:38 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:38 - WARNING - Rate limit excedido para 172.20.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 17:52:38 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:38 - WARNING - Rate limit excedido para 172.20.0.1 no endpoint /usuarios/meus_dados
+2025-03-13 17:52:38 - INFO - Usuário helder autenticado com sucesso
+2025-03-13 17:52:38 - WARNING - Rate limit excedido para 172.20.0.1 no endpoint /usuarios/meus_dados
