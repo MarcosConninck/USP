@@ -1,9 +1,10 @@
 from fastapi import APIRouter, Depends, status, HTTPException
-import esquemas, repositorio
+import esquemas, repositorio, modelos
 from banco_de_dados import obter_sessao
 from configuracao import logger
 from sqlalchemy.orm import Session
 import traceback
+from oath2 import obter_usuario_atual
 
 router = APIRouter(prefix="/usuarios", tags=["Usuários"])
 
@@ -50,3 +51,6 @@ def listar_usuarios(db: Session = Depends(obter_sessao)):
         traceback.print_exc()
         logger.error(e)
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Usuários não encontrados")
+
+@router.get("/meus_dados")
+def meus_dados(usuario_atual: modelos.Usuario = Depends(obter_usuario_atual))
