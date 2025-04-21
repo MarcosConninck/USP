@@ -54,3 +54,4 @@ def listar_usuarios(db: Session = Depends(obter_sessao)):
 
 @router.get("/meus_dados")
 def meus_dados(usuario_atual: modelos.Usuario = Depends(obter_usuario_atual))
+    ...
