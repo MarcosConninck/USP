@@ -9,6 +9,12 @@ window.addEventListener('message', (evento) => {
             const ancora = document.createElement('a')
             ancora.innerHTML = element.nome
             ancora.setAttribute('href', element.path)
+
+            ancora.addEventListener('click', (evt) => {
+                evt.preventDefault()
+                window.parent.postMessage({ type: 'NAVEGACAO', destino: rotas }, '*')
+            })
+
             li.appendChild(ancora)
             listaDeLinks.appendChild(li)
         });
